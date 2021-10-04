@@ -1,0 +1,22 @@
+{
+    "entrada": {
+        "caminho": "C:/Users/Sandro Bispo/Desktop/Py_tons_prog/QT_widgets/venv",
+        "tipo": "pst",
+        "verifica": true
+    },
+    "pdf": {
+        "caminho": "C:/Users/Sandro Bispo/Desktop/Py_tons_prog/QT_widgets/.vscode",
+        "tipo": "pst",
+        "verifica": true
+    },
+    "saida": {
+        "caminho": "C:/Users/Sandro Bispo/Desktop/Py_tons_prog/Cool_Calculator--main",
+        "tipo": "pst",
+        "verifica": true
+    },
+    "xml": {
+        "caminho": "C:/Users/Sandro Bispo/Desktop/Py_tons_prog/Bot_Nike",
+        "tipo": "pst",
+        "verifica": true
+    }
+}
